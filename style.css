@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Itim&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.nav-font {
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    color: aliceblue;
+  }
+
+
+.body-font {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+  }
+
+.hover-zoom li {
+    transition: transform 0.3s ease;
+  }
+
+  .hover-zoom li:hover {
+    transform: scale(1.2); 
+    
+  }
+
+.navbar-custom {
+  background-color: #3B1E54; 
+}
+
+.image-portfolio {
+  margin-right: 10%;
+  margin-top: 8%;
+  
+}
+
+.presentetion-section {
+  width: 800px;
+  margin-left: 10%;
+  margin-top: 18%;
+  /* background-color: #D4BEE4; */
+  
+}
+
+.open-book {
+  margin-right: 10%;
+  margin-top: 12%;
+}
+
+.biografia-section-color {
+  background-color: #D4BEE4;
+  
+}
+
+.biografia-section {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.experiencias-section {
+  width: 800px;
+  margin-left: 10%;
+  margin-top: 10%;
+  background-color: #D4BEE4;
+  
+}
+
+.stack-img {
+  margin-right: 12%;
+  margin-top: 14%;
+}
+
+
+.solution-img {
+  margin-right: 10%;
+  margin-top: 10%;
+}
+
+.habilidades-section {
+  margin-top: 6%;
+  margin-left: 10%;
+}
+
+.distancias {
+  margin-top: 6px;
+}
+
+.projetos-section-color {
+  background-color: #D4BEE4;
+}
+
+ .projetos-image {
+  margin-top: 32%;
+  margin-left: 10%;
+}
+
+.projetos-text {
+  margin-bottom: 8%; 
+}
+
+
+.formacao-section {
+  width: 800px;
+  margin-left: 10%;
+  margin-top: 8%;
+  background-color: #D4BEE4;
+  
+}
+
+.img-formacao-section {
+  margin-right: 10%;
+  margin-top: 16%;
+}
+
+.curriculo-section-color {
+  background-color: #D4BEE4;
+}
+
+.curriculo-section {
+  margin-left: 30%;
+  margin-right: 28%;
+}
+
+.letter-img {
+  margin-top: 30%;
+}
+
+.contato-section {
+  margin-top: 8%;
+  margin-left: 10%;
+}
+
+.communicate-img {
+  margin-right: 10%;
+  margin-top: 12%;
+}
+
+.background-color-page {
+  background-color: #EEEEEE;
+}
